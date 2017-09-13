@@ -1,0 +1,23 @@
+{
+  "name": "ds-js",
+  "version": "0.0.5",
+  "description": "Data Structures in JavaScript using ES6 classes",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "data-structures",
+    "list",
+    "linked",
+    "list",
+    "set",
+    "binary",
+    "search",
+    "tree",
+    "queue",
+    "stack"
+  ],
+  "author": "Anmol Maini <anmol.maini@gmail.com>",
+  "license": "MIT"
+}
